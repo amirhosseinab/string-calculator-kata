@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/amirhosseinab/string-calculator-kata.svg?branch=master)](https://travis-ci.org/amirhosseinab/string-calculator-kata)
+
 _This is a kata by [Roy Osherove](http://osherove.com/tdd-kata-1/)_
 
 ## Before you start: 
